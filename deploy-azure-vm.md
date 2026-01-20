@@ -2,4 +2,7 @@
 
 ## Create Virtual Machine
 Create a resource > Virtual machine > Create
-![](images/create-a-vm.png)
+<details>
+  <summary>Click to view the image</summary>
+  ![](images/create-a-vm.png)
+</details>
