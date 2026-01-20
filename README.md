@@ -1,2 +1,2 @@
-# proxmox
-Proxmox home lab
+# Proxmox home lab
+
