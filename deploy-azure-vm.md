@@ -29,4 +29,14 @@ Configure Basics:
   ![](images/create-a-vm-basics.png)
 </details>
 
+Configure Disks:
+| Setting | Value |
+| :--- | :--- |
+| **OS disk size** | Image default (30 GiB) |
+| **OS disk type** | Standard SSD (LRS) |
+<details>
+  <summary>Example</summary>
+  
+  ![](images/create-a-vm-disks.png)
+</details>
 
