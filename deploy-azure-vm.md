@@ -53,3 +53,10 @@ Review and create VM
   
   ![](images/create-a-vm-review.png)
 </details>
+
+Download private key pair. Will use this to access SSH to Azure VM
+<details>
+  <summary>Example</summary>
+  
+  ![](images/create-a-vm-privatekey.png)
+</details>
