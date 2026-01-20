@@ -67,3 +67,10 @@ Deployment completed
   
   ![](images/create-a-vm-deploycompleted.png)
 </details>
+
+Open wgserver (Resource Manager > WireGuard > wgserver)
+<details>
+  <summary>Example</summary>
+  
+  ![](images/open-wgserver.png)
+</details>
