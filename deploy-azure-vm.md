@@ -46,3 +46,10 @@ Configure Networking. Make sure to assign static public IP address.
   
   ![](images/create-a-vm-networking.png)
 </details>
+
+Review and create VM
+<details>
+  <summary>Example</summary>
+  
+  ![](images/create-a-vm-review.png)
+</details>
