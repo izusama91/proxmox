@@ -40,3 +40,9 @@ Configure Disks:
   ![](images/create-a-vm-disks.png)
 </details>
 
+Configure Networking. Make sure to assign static public IP address.
+<details>
+  <summary>Example</summary>
+  
+  ![](images/create-a-vm-networking.png)
+</details>
