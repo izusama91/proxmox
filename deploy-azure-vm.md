@@ -60,3 +60,10 @@ Download private key pair. Will use this to access SSH to Azure VM
   
   ![](images/create-a-vm-privatekey.png)
 </details>
+
+Deployment completed
+<details>
+  <summary>Example</summary>
+  
+  ![](images/create-a-vm-deploycompleted.png)
+</details>
