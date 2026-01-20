@@ -9,18 +9,20 @@ Create a resource > Virtual machine > Create
 </details>
 
 Configure Basics:
-Resource group: WireGuard
-Virtual machine name: wgserver
-Region: Malaysia West
-Image: Debian 12
-Size: B1s
-Authentication type: SSH public key
-Username: wgadmin
-SSH public key source: Generate new key pair
-SSH Key Type: Ed25519 SSH Format
-Key pair name: wgserver_key
-Public inbound port: Allow selected ports
-Select inbound ports: SSH (22)
+| Setting | Value |
+| :--- | :--- |
+| **Resource group** | WireGuard |
+| **Virtual machine name** | wgserver |
+| **Region** | Malaysia West |
+| **Image** | Debian 12 |
+| **Size** | B1s |
+| **Authentication type** | SSH public key |
+| **Username** | wgadmin |
+| **SSH public key source** | Generate new key pair |
+| **SSH Key Type** | Ed25519 SSH Format |
+| **Key pair name** | wgserver_key |
+| **Public inbound port** | Allow selected ports |
+| **Select inbound ports** | SSH (22) |
 <details>
   <summary>Example</summary>
   
