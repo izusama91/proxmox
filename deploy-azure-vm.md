@@ -74,3 +74,10 @@ Open wgserver (Resource Manager > WireGuard > wgserver)
   
   ![](images/open-wgserver.png)
 </details>
+
+Check wgserver public IP address (wgserver > Essential > Primary NIC public IP)
+<details>
+  <summary>Example</summary>
+  
+  ![](images/wgserver-checkpublicip.png)
+</details>
