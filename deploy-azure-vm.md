@@ -1,6 +1,6 @@
 [Back to Main Page](README.md)
 
-## Create Virtual Machine
+## Create WireGuard Server using Azure VM
 Create a resource > Virtual machine > Create
 <details>
   <summary>Example</summary>
