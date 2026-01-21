@@ -103,7 +103,7 @@ Check wgserver public IP address (wgserver > Essential > Primary NIC public IP)
 SSH to wgserver (using SecureCRT)
 | Setting | Value |
 | :--- | :--- |
-| **Hostname** | <wgserver public IP> |
+| **Hostname** | (wgserver public IP) |
 | **Username** | wgadmin |
 | **Authentication** | PublicKey |
 
