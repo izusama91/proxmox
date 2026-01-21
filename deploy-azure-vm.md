@@ -97,3 +97,19 @@ Check wgserver public IP address (wgserver > Essential > Primary NIC public IP)
   
   ![](images/wgserver-checkpublicip.png)
 </details>
+
+---
+
+SSH to wgserver (using SecureCRT)
+| Setting | Value |
+| :--- | :--- |
+| **Hostname** | <wgserver public IP> |
+| **Username** | wgadmin |
+| **Authentication** | PublicKey |
+
+Configure Public Key (select PublicKey > click gear icon)
+<details>
+  <summary>Example</summary>
+  
+  ![](images/securecrt-quickconnect.png)
+</details>
