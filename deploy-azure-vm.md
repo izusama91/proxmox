@@ -113,3 +113,13 @@ Configure Public Key (select PublicKey > click gear icon)
   
   ![](images/securecrt-quickconnect.png)
 </details>
+
+Select Use identity or certificate file > Select private key from Azure VM > click OK
+<details>
+  <summary>Example</summary>
+  
+  ![](images/securecrt-privatekeyconfig.png)
+</details>
+
+Connect
+
