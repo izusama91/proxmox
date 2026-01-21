@@ -123,3 +123,10 @@ Select Use identity or certificate file > Select private key from Azure VM > cli
 
 Connect
 
+---
+
+Update wgserver
+```
+wgadmin@wgserver:~$ sudo apt update
+wgadmin@wgserver:~$ sudo apt upgrade
+```
