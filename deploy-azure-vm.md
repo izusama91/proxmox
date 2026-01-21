@@ -31,6 +31,8 @@ Configure Basics:
   ![](images/create-a-vm-basics.png)
 </details>
 
+---
+
 Configure Disks:
 | Setting | Value |
 | :--- | :--- |
@@ -42,12 +44,16 @@ Configure Disks:
   ![](images/create-a-vm-disks.png)
 </details>
 
+---
+
 Configure Networking. Make sure to assign static public IP address.
 <details>
   <summary>Example</summary>
   
   ![](images/create-a-vm-networking.png)
 </details>
+
+---
 
 Review and create VM
 <details>
@@ -56,12 +62,16 @@ Review and create VM
   ![](images/create-a-vm-review.png)
 </details>
 
+---
+
 Download private key pair. Will use this to access SSH to Azure VM
 <details>
   <summary>Example</summary>
   
   ![](images/create-a-vm-privatekey.png)
 </details>
+
+---
 
 Deployment completed
 <details>
@@ -70,12 +80,16 @@ Deployment completed
   ![](images/create-a-vm-deploycompleted.png)
 </details>
 
+---
+
 Open wgserver (Resource Manager > WireGuard > wgserver)
 <details>
   <summary>Example</summary>
   
   ![](images/wgserver-open.png)
 </details>
+
+---
 
 Check wgserver public IP address (wgserver > Essential > Primary NIC public IP)
 <details>
